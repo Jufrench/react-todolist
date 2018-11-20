@@ -1,0 +1,12 @@
+li span {
+   color: pink;
+   padding-right: 0px;
+}
+
+li span:hover {
+   color: red;
+}
+
+p {
+   margin-bottom: 0px;
+}
